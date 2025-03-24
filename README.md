@@ -16,6 +16,8 @@ This repository contains a curated list of tools I currently use, organized by c
 - **[LazyVim](https://www.lazyvim.org/)** - Neovim configuration for a modern IDE experience
 - **[Aider](https://aider.chat/)** - AI pair programming assistant
 - **[Homebrew](https://brew.sh/)** - Package manager for macOS *(Must-have)*
+- **[Ranger](https://ranger.github.io/)** - Console file manager with VI key bindings
+- **[Tig](https://jonas.github.io/tig/)** - Text-mode interface for Git
 
 ## Browsers & Web Tools
 
