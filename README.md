@@ -21,7 +21,11 @@ This repository contains a curated list of tools I currently use, organized by c
 
 - **[Arc Browser](https://arc.net/)** - Chromium-based browser with unique space management *(Must-have)*
 - **[Ferdium](https://ferdium.org/)** - Unified messaging app for various services
-- **[Dashlane](https://www.dashlane.com/)** - Password manager and digital wallet
+- **[Dashlane](https://www.dashlane.com/cs/jiyB01HKIBLn)** - Password manager and digital wallet
+
+## Social Networks
+
+- **[GeckoSocial](https://www.geckosocial.app?via=gabrielpic)** - Social networking platform
 
 ## Media & Entertainment
 
