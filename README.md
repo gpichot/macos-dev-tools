@@ -22,10 +22,15 @@ This repository contains a curated list of tools I currently use, organized by c
 - **[Arc Browser](https://arc.net/)** - Chromium-based browser with unique space management *(Must-have)*
 - **[Ferdium](https://ferdium.org/)** - Unified messaging app for various services
 - **[Dashlane](https://www.dashlane.com/cs/jiyB01HKIBLn)** - Password manager and digital wallet
+- **[ShieldApp](https://shield.app/)** - Security and privacy protection tool
 
 ## Social Networks
 
 - **[GeckoSocial](https://www.geckosocial.app?via=gabrielpic)** - Social networking platform
+
+## Content Creation
+
+- **[StreamYard](https://streamyard.com/?fpr=gabriel44)** - Live streaming studio in your browser
 
 ## Media & Entertainment
 
