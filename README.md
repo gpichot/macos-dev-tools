@@ -5,7 +5,7 @@ This repository contains a curated list of tools I currently use, organized by c
 ## Productivity & Organization
 
 - **[Notion](https://www.notion.so/)** - All-in-one workspace for notes, tasks, wikis, and databases
-- **[Motion](https://www.usemotion.com/)** - AI-powered calendar and task management
+- **[Motion](https://get.usemotion.com/94irv08n8ksm)** - AI-powered calendar and task management
 - **[Merciapp](https://merci.com/)** - Gratitude and appreciation tool
 - **[Alfred](https://www.alfredapp.com/)** - Productivity app for macOS with powerful workflows *(Must-have)*
 
