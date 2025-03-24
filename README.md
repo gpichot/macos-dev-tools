@@ -6,13 +6,12 @@ This repository contains a curated list of tools I currently use, organized by c
 
 - ⭐ Must-have tool
 - 🔄 Regular use
-- 🧩 Specialized tool
 
 ## Productivity & Organization
 
 - 🔄 **[Notion](https://www.notion.so/)** - All-in-one workspace for notes, tasks, wikis, and databases
 - 🔄 **[Motion](https://get.usemotion.com/94irv08n8ksm)** - AI-powered calendar and task management
-- 🧩 **[Merciapp](https://merci.com/)** - Grammar and style checker for French & English
+- **[Merciapp](https://merci.com/)** - Grammar and style checker for French & English
 - ⭐ **[Alfred](https://www.alfredapp.com/)** - Productivity app for macOS with powerful workflows
 - ⭐ **[CleanShotX](https://cleanshot.com/)** - Advanced screenshot and screen recording tool for macOS
 - **[CleanMyMac](https://macpaw.com/cleanmymac)** - All-in-one package to optimize your Mac
