@@ -31,6 +31,13 @@ This repository contains a curated list of tools I currently use, organized by c
 ## Content Creation
 
 - **[StreamYard](https://streamyard.com/?fpr=gabriel44)** - Live streaming studio in your browser
+- **[Canva](https://www.canva.com/)** - Graphic design platform for creating visual content
+- **[Loom](https://www.loom.com/)** - Video messaging for work
+
+## Utilities
+
+- **[CleanShotX](https://cleanshot.com/)** - Advanced screenshot and screen recording tool for macOS
+- **[CleanMyMac](https://macpaw.com/cleanmymac)** - All-in-one package to optimize your Mac *(Must-have)*
 
 ## Media & Entertainment
 
