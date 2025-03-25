@@ -31,7 +31,7 @@ This repository contains a curated list of tools I currently use, organized by c
 - ⭐ **[Arc Browser](https://arc.net/)** - Chromium-based browser with unique space management
 - 🔄 **[Ferdium](https://ferdium.org/)** - Unified messaging app for various services
 - 🔄 **[Dashlane](https://www.dashlane.com/cs/jiyB01HKIBLn)** - Password manager and digital wallet
-- **[ShieldApp](https://shield.app/)** - Security and privacy protection tool
+- **[ShieldApp](https://www.shieldapp.ai/?via=gabriel)** - Security and privacy protection tool
 
 ## Social Networks
 
