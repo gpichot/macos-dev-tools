@@ -20,6 +20,7 @@ This repository contains a curated list of tools I currently use, organized by c
 
 - 🔄 **[iTerm2](https://iterm2.com/)** - Terminal emulator for macOS
 - 🔄 **[Oh My Zsh](https://ohmyz.sh/)** - Framework for managing Zsh configuration
+- 🔄 **[Antigen](https://github.com/zsh-users/antigen)** - Plugin manager for Zsh
 - 🔄 **[LazyVim](https://www.lazyvim.org/)** - Neovim configuration for a modern IDE experience
 - **[Aider](https://aider.chat/)** - AI pair programming assistant
 - ⭐ **[Homebrew](https://brew.sh/)** - Package manager for macOS
