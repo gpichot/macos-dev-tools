@@ -13,7 +13,7 @@ This repository contains a curated list of tools I currently use, organized by c
 - 🔄 **[Motion](https://get.usemotion.com/94irv08n8ksm)** - AI-powered calendar and task management
 - **[Merciapp](https://merci-app.cello.so/rnwOfHxnQYt)** - Grammar and style checker for French & English
 - ⭐ **[Alfred](https://www.alfredapp.com/)** - Productivity app for macOS with powerful workflows
-- ⭐ **[CleanShotX](https://cleanshot.com/)** - Advanced screenshot and screen recording tool for macOS
+- ⭐ **[CleanShotX](https://cleanshot.sjv.io/3JoxeB)** - Advanced screenshot and screen recording tool for macOS
 - **[CleanMyMac](https://macpaw.com/cleanmymac)** - All-in-one package to optimize your Mac
 
 ## Development Environment
